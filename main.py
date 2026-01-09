@@ -5,7 +5,7 @@ from functions import *
 
 API_ID = environ.get('API_ID')
 API_HASH = environ.get('API_HASH')
-BOT_TOKEN = environ.get('BOT_TOKEN')
+BOT_TOKEN = environ.get('8557618327:AAG8ho0svdomb-LISXQhNvIkgUNC6MToQA4')
 
 TEXT_BYTE_LIMIT = 300
 AUDIO_FORMAT = 'mp3'
